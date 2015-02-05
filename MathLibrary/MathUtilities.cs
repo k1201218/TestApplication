@@ -46,6 +46,7 @@ namespace MathLibrary
         /// <returns></returns>
         public static double Subtract(double a, double b)
         {
+	    // git muutos
             return a - b;
         }
     }
