@@ -14,6 +14,7 @@ namespace MathLibrary
 
         public Vector(double x, double y, double z)
         {
+            // kommentti
             this.X = x;
             this.Y = y;
             this.Z = Z;
